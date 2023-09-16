@@ -15,6 +15,8 @@
     **3.** Create_[pnl by fiscal month](https://github.com/shubhvanshi/AtliQ-Sales-Analysis/blob/main/pnl%20by%20fiscal%20month.pdf)
     **4.** Create_[GM% by quarters](https://github.com/shubhvanshi/AtliQ-Sales-Analysis/blob/main/GM%25%20by%20quarters.pdf)
 
+## Business Growth Perspective :
+
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
